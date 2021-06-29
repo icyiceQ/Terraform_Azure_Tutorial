@@ -1,0 +1,1 @@
+resource_group_name = "Test_Terraform_Kjell"
