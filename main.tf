@@ -65,8 +65,4 @@ resource "azurerm_container_group" "TerraformTestKjell" {
     cpu    = "0.5"
     memory = "1.5"
   }
-
-  tags {
-    environment = "testing"
-  }
 }
